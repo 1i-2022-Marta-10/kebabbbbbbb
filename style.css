@@ -1,0 +1,88 @@
+body{
+	background-color: #ecd089;
+	font-family: Arial, sans-serif;
+	
+}
+.banner {
+	padding: 10px;
+	background-image: url('kebabb.jpg');
+    background-size: cover; 
+    background-position: center; 
+    height: 300px; 
+    color: white; 
+    text-align: center; 
+    display: flex;
+    flex-direction: column;
+    justify-content: center; 
+    font-family: Arial, sans-serif;
+} 
+.banner2 {
+	padding: 10px;
+	background-image: url('kebab.jpg');
+    background-size: cover; 
+    background-position: center; 
+    height: 300px; 
+    display: flex;
+    flex-direction: column;
+    justify-content: center; 
+    font-family: Arial, sans-serif;
+} 
+.menu{
+	text-align: center; 
+    display: flex;
+    flex-direction: column;
+    justify-content: center; 
+	list-style-position: inside;
+}
+.button-container {
+    text-align: center; 
+    margin-top: 50px;
+}
+.my-button {
+    background-color: #cc6930; 
+    color: #5e340d; 
+    padding: 15px 32px; 
+    text-align: center; 
+    text-decoration: none; 
+    display: inline-block; 
+    font-size: 16px; 
+    margin: 4px 2px; 
+    cursor: pointer; 
+    border-radius: 4px; 
+	
+}
+
+.my-button:hover {
+    background-color: #ce855b; 
+}
+
+.hkb {
+	background-color: #e9d9b1;
+	font-size: 26px;
+	color:#4d371e
+
+}
+.button-container2 {
+    text-align: center; 
+    margin-top: 50px;
+}
+.my-button2 {
+    background-color: #cc6930; 
+    color: #5e340d; 
+    padding: 15px 32px; 
+    text-align: center; 
+    text-decoration: none; 
+    display: inline-block; 
+    font-size: 16px; 
+    margin: 4px 2px; 
+    cursor: pointer; 
+    border-radius: 4px; 
+	
+}
+.kk {
+	font-size: 26px;
+	color:#4d371e;
+}
+h1{
+	text-align: center;
+}
